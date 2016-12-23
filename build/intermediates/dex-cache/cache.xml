@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3c2df793393475cc27c260c1a629a542f39aaa5d">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bffcbb9b9d5786c2e4120bc2bb78f89c9eeabf64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_10a0b343f69d408d9fda9ae89d775b45db4cd3b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.1_5a8a7d03466f820068b5d6909c141ca17835f8eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_4b5376821de10f2b7f2bf7a548f4fc2e6f2c010f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="143de35d74d4879a60f0dbd232742f9f3f1d072c">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae42914ce3038e5952fdbb59006b705f3c346838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d3aba1c188fea5ee83ebbcb458be29d1cc0ef483">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.2.1_6c42b76340c17326b7abc113285a3fb56b5738cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_6f2d084e7755afb4387d18cec1072e987b86e3c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_4ff0a71356f885e47b9f84aeb86e465c1c846b8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_70d8648e885d90e2c8dab5b80f1a9b4d778f726a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_f5894dd7c5125758189dc23c37d28a7ac166545c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_8df3388db448eaccc7e5c0d3cafecbc4bb7cfe34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.2.1_e07f992408cac1c32266963dcd9ea14a06e2ee74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\kikkos\AndroidStudioProjects\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_65b308c12f901f24f61b18cbe479626e514cfbe4\classes.dex" />
+    </item>
+
+</items>
